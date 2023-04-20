@@ -121,3 +121,5 @@ mmfewshot/.mim
 *.pth
 *.py~
 *.sh~
+demo/**/*.jpg
+demo/**/*.png
